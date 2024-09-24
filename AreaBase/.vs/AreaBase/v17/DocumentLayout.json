@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\Documents\\C# Basico .Net\\Csharp\\AreaBase\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F658CD0-8B70-4A2A-BA1C-45B41B3768C9}|Calcular\\Calcular.csproj|c:\\users\\lenovo\\documents\\c# basico .net\\csharp\\areabase\\calcular\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F658CD0-8B70-4A2A-BA1C-45B41B3768C9}|Calcular\\Calcular.csproj|solutionrelative:calcular\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F658CD0-8B70-4A2A-BA1C-45B41B3768C9}|Calcular\\Calcular.csproj|c:\\users\\lenovo\\documents\\c# basico .net\\csharp\\areabase\\calcular\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F658CD0-8B70-4A2A-BA1C-45B41B3768C9}|Calcular\\Calcular.csproj|solutionrelative:calcular\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Triangulo.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Documents\\C# Basico .Net\\Csharp\\AreaBase\\Calcular\\Triangulo.cs",
+              "RelativeDocumentMoniker": "Calcular\\Triangulo.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Documents\\C# Basico .Net\\Csharp\\AreaBase\\Calcular\\Triangulo.cs",
+              "RelativeToolTip": "Calcular\\Triangulo.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAqwDcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T22:51:57.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Documents\\C# Basico .Net\\Csharp\\AreaBase\\Calcular\\Program.cs",
+              "RelativeDocumentMoniker": "Calcular\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Documents\\C# Basico .Net\\Csharp\\AreaBase\\Calcular\\Program.cs",
+              "RelativeToolTip": "Calcular\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T22:50:56.855Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

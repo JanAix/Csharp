@@ -1,0 +1,14 @@
+C:\Users\LENOVO\Documents\C# Basico .Net\Csharp\SIstemaNomina\SIstemaNomina\bin\Debug\net8.0\SIstemaNomina.exe
+C:\Users\LENOVO\Documents\C# Basico .Net\Csharp\SIstemaNomina\SIstemaNomina\bin\Debug\net8.0\SIstemaNomina.deps.json
+C:\Users\LENOVO\Documents\C# Basico .Net\Csharp\SIstemaNomina\SIstemaNomina\bin\Debug\net8.0\SIstemaNomina.runtimeconfig.json
+C:\Users\LENOVO\Documents\C# Basico .Net\Csharp\SIstemaNomina\SIstemaNomina\bin\Debug\net8.0\SIstemaNomina.dll
+C:\Users\LENOVO\Documents\C# Basico .Net\Csharp\SIstemaNomina\SIstemaNomina\bin\Debug\net8.0\SIstemaNomina.pdb
+C:\Users\LENOVO\Documents\C# Basico .Net\Csharp\SIstemaNomina\SIstemaNomina\obj\Debug\net8.0\SIstemaNomina.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Documents\C# Basico .Net\Csharp\SIstemaNomina\SIstemaNomina\obj\Debug\net8.0\SIstemaNomina.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Documents\C# Basico .Net\Csharp\SIstemaNomina\SIstemaNomina\obj\Debug\net8.0\SIstemaNomina.AssemblyInfo.cs
+C:\Users\LENOVO\Documents\C# Basico .Net\Csharp\SIstemaNomina\SIstemaNomina\obj\Debug\net8.0\SIstemaNomina.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\C# Basico .Net\Csharp\SIstemaNomina\SIstemaNomina\obj\Debug\net8.0\SIstemaNomina.dll
+C:\Users\LENOVO\Documents\C# Basico .Net\Csharp\SIstemaNomina\SIstemaNomina\obj\Debug\net8.0\refint\SIstemaNomina.dll
+C:\Users\LENOVO\Documents\C# Basico .Net\Csharp\SIstemaNomina\SIstemaNomina\obj\Debug\net8.0\SIstemaNomina.pdb
+C:\Users\LENOVO\Documents\C# Basico .Net\Csharp\SIstemaNomina\SIstemaNomina\obj\Debug\net8.0\SIstemaNomina.genruntimeconfig.cache
+C:\Users\LENOVO\Documents\C# Basico .Net\Csharp\SIstemaNomina\SIstemaNomina\obj\Debug\net8.0\ref\SIstemaNomina.dll

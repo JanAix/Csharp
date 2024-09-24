@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\Documents\\C# Basico .Net\\Csharp\\SIstemaNomina\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D5C26C67-2472-4A50-A557-9EB700A3FE10}|SIstemaNomina\\SIstemaNomina.csproj|c:\\users\\lenovo\\documents\\c# basico .net\\csharp\\sistemanomina\\sistemanomina\\clases\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5C26C67-2472-4A50-A557-9EB700A3FE10}|SIstemaNomina\\SIstemaNomina.csproj|solutionrelative:sistemanomina\\clases\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5C26C67-2472-4A50-A557-9EB700A3FE10}|SIstemaNomina\\SIstemaNomina.csproj|c:\\users\\lenovo\\documents\\c# basico .net\\csharp\\sistemanomina\\sistemanomina\\clases\\empleadobasemascomision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5C26C67-2472-4A50-A557-9EB700A3FE10}|SIstemaNomina\\SIstemaNomina.csproj|solutionrelative:sistemanomina\\clases\\empleadobasemascomision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5C26C67-2472-4A50-A557-9EB700A3FE10}|SIstemaNomina\\SIstemaNomina.csproj|c:\\users\\lenovo\\documents\\c# basico .net\\csharp\\sistemanomina\\sistemanomina\\clases\\empleadoporcomision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5C26C67-2472-4A50-A557-9EB700A3FE10}|SIstemaNomina\\SIstemaNomina.csproj|solutionrelative:sistemanomina\\clases\\empleadoporcomision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5C26C67-2472-4A50-A557-9EB700A3FE10}|SIstemaNomina\\SIstemaNomina.csproj|c:\\users\\lenovo\\documents\\c# basico .net\\csharp\\sistemanomina\\sistemanomina\\clases\\empleadoporhoras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5C26C67-2472-4A50-A557-9EB700A3FE10}|SIstemaNomina\\SIstemaNomina.csproj|solutionrelative:sistemanomina\\clases\\empleadoporhoras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5C26C67-2472-4A50-A557-9EB700A3FE10}|SIstemaNomina\\SIstemaNomina.csproj|c:\\users\\lenovo\\documents\\c# basico .net\\csharp\\sistemanomina\\sistemanomina\\clases\\empleadoasalariado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5C26C67-2472-4A50-A557-9EB700A3FE10}|SIstemaNomina\\SIstemaNomina.csproj|solutionrelative:sistemanomina\\clases\\empleadoasalariado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5C26C67-2472-4A50-A557-9EB700A3FE10}|SIstemaNomina\\SIstemaNomina.csproj|c:\\users\\lenovo\\documents\\c# basico .net\\csharp\\sistemanomina\\sistemanomina\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5C26C67-2472-4A50-A557-9EB700A3FE10}|SIstemaNomina\\SIstemaNomina.csproj|solutionrelative:sistemanomina\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Empleado.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Documents\\C# Basico .Net\\Csharp\\SIstemaNomina\\SIstemaNomina\\Clases\\Empleado.cs",
+              "RelativeDocumentMoniker": "SIstemaNomina\\Clases\\Empleado.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Documents\\C# Basico .Net\\Csharp\\SIstemaNomina\\SIstemaNomina\\Clases\\Empleado.cs",
+              "RelativeToolTip": "SIstemaNomina\\Clases\\Empleado.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T00:16:43.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmpleadoPorHoras.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Documents\\C# Basico .Net\\Csharp\\SIstemaNomina\\SIstemaNomina\\Clases\\EmpleadoPorHoras.cs",
+              "RelativeDocumentMoniker": "SIstemaNomina\\Clases\\EmpleadoPorHoras.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Documents\\C# Basico .Net\\Csharp\\SIstemaNomina\\SIstemaNomina\\Clases\\EmpleadoPorHoras.cs",
+              "RelativeToolTip": "SIstemaNomina\\Clases\\EmpleadoPorHoras.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAmwFEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T00:19:33.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmpleadoPorComision.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Documents\\C# Basico .Net\\Csharp\\SIstemaNomina\\SIstemaNomina\\Clases\\EmpleadoPorComision.cs",
+              "RelativeDocumentMoniker": "SIstemaNomina\\Clases\\EmpleadoPorComision.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Documents\\C# Basico .Net\\Csharp\\SIstemaNomina\\SIstemaNomina\\Clases\\EmpleadoPorComision.cs",
+              "RelativeToolTip": "SIstemaNomina\\Clases\\EmpleadoPorComision.cs",
+              "ViewState": "AQIAADIAAAAAAABACgkKwFcAAAB5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T00:19:15.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Documents\\C# Basico .Net\\Csharp\\SIstemaNomina\\SIstemaNomina\\Program.cs",
+              "RelativeDocumentMoniker": "SIstemaNomina\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Documents\\C# Basico .Net\\Csharp\\SIstemaNomina\\SIstemaNomina\\Program.cs",
+              "RelativeToolTip": "SIstemaNomina\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T00:14:40.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmpleadoAsalariado.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Documents\\C# Basico .Net\\Csharp\\SIstemaNomina\\SIstemaNomina\\Clases\\EmpleadoAsalariado.cs",
+              "RelativeDocumentMoniker": "SIstemaNomina\\Clases\\EmpleadoAsalariado.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Documents\\C# Basico .Net\\Csharp\\SIstemaNomina\\SIstemaNomina\\Clases\\EmpleadoAsalariado.cs",
+              "RelativeToolTip": "SIstemaNomina\\Clases\\EmpleadoAsalariado.cs",
+              "ViewState": "AQIAABUAAAAAAAAgcUAdwBQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T00:18:38.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmpleadoBaseMasComision.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Documents\\C# Basico .Net\\Csharp\\SIstemaNomina\\SIstemaNomina\\Clases\\EmpleadoBaseMasComision.cs",
+              "RelativeDocumentMoniker": "SIstemaNomina\\Clases\\EmpleadoBaseMasComision.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Documents\\C# Basico .Net\\Csharp\\SIstemaNomina\\SIstemaNomina\\Clases\\EmpleadoBaseMasComision.cs",
+              "RelativeToolTip": "SIstemaNomina\\Clases\\EmpleadoBaseMasComision.cs",
+              "ViewState": "AQIAAAAAAAAAAABtWEYvwDUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T00:19:59.046Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\LENOVO\Documents\C# Basico .Net\Csharp\AreaBase\Calcular\bin\Debug\net8.0\Calcular.exe
+C:\Users\LENOVO\Documents\C# Basico .Net\Csharp\AreaBase\Calcular\bin\Debug\net8.0\Calcular.deps.json
+C:\Users\LENOVO\Documents\C# Basico .Net\Csharp\AreaBase\Calcular\bin\Debug\net8.0\Calcular.runtimeconfig.json
+C:\Users\LENOVO\Documents\C# Basico .Net\Csharp\AreaBase\Calcular\bin\Debug\net8.0\Calcular.dll
+C:\Users\LENOVO\Documents\C# Basico .Net\Csharp\AreaBase\Calcular\bin\Debug\net8.0\Calcular.pdb
+C:\Users\LENOVO\Documents\C# Basico .Net\Csharp\AreaBase\Calcular\obj\Debug\net8.0\Calcular.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Documents\C# Basico .Net\Csharp\AreaBase\Calcular\obj\Debug\net8.0\Calcular.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Documents\C# Basico .Net\Csharp\AreaBase\Calcular\obj\Debug\net8.0\Calcular.AssemblyInfo.cs
+C:\Users\LENOVO\Documents\C# Basico .Net\Csharp\AreaBase\Calcular\obj\Debug\net8.0\Calcular.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\C# Basico .Net\Csharp\AreaBase\Calcular\obj\Debug\net8.0\Calcular.dll
+C:\Users\LENOVO\Documents\C# Basico .Net\Csharp\AreaBase\Calcular\obj\Debug\net8.0\refint\Calcular.dll
+C:\Users\LENOVO\Documents\C# Basico .Net\Csharp\AreaBase\Calcular\obj\Debug\net8.0\Calcular.pdb
+C:\Users\LENOVO\Documents\C# Basico .Net\Csharp\AreaBase\Calcular\obj\Debug\net8.0\Calcular.genruntimeconfig.cache
+C:\Users\LENOVO\Documents\C# Basico .Net\Csharp\AreaBase\Calcular\obj\Debug\net8.0\ref\Calcular.dll

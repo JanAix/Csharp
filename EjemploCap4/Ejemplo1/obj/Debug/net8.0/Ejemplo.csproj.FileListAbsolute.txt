@@ -1,0 +1,14 @@
+C:\Users\LENOVO\Documents\C# Basico .Net\Csharp\EjemploCap4\Ejemplo1\bin\Debug\net8.0\Ejemplo.exe
+C:\Users\LENOVO\Documents\C# Basico .Net\Csharp\EjemploCap4\Ejemplo1\bin\Debug\net8.0\Ejemplo.deps.json
+C:\Users\LENOVO\Documents\C# Basico .Net\Csharp\EjemploCap4\Ejemplo1\bin\Debug\net8.0\Ejemplo.runtimeconfig.json
+C:\Users\LENOVO\Documents\C# Basico .Net\Csharp\EjemploCap4\Ejemplo1\bin\Debug\net8.0\Ejemplo.dll
+C:\Users\LENOVO\Documents\C# Basico .Net\Csharp\EjemploCap4\Ejemplo1\bin\Debug\net8.0\Ejemplo.pdb
+C:\Users\LENOVO\Documents\C# Basico .Net\Csharp\EjemploCap4\Ejemplo1\obj\Debug\net8.0\Ejemplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Documents\C# Basico .Net\Csharp\EjemploCap4\Ejemplo1\obj\Debug\net8.0\Ejemplo.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Documents\C# Basico .Net\Csharp\EjemploCap4\Ejemplo1\obj\Debug\net8.0\Ejemplo.AssemblyInfo.cs
+C:\Users\LENOVO\Documents\C# Basico .Net\Csharp\EjemploCap4\Ejemplo1\obj\Debug\net8.0\Ejemplo.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\C# Basico .Net\Csharp\EjemploCap4\Ejemplo1\obj\Debug\net8.0\Ejemplo.dll
+C:\Users\LENOVO\Documents\C# Basico .Net\Csharp\EjemploCap4\Ejemplo1\obj\Debug\net8.0\refint\Ejemplo.dll
+C:\Users\LENOVO\Documents\C# Basico .Net\Csharp\EjemploCap4\Ejemplo1\obj\Debug\net8.0\Ejemplo.pdb
+C:\Users\LENOVO\Documents\C# Basico .Net\Csharp\EjemploCap4\Ejemplo1\obj\Debug\net8.0\Ejemplo.genruntimeconfig.cache
+C:\Users\LENOVO\Documents\C# Basico .Net\Csharp\EjemploCap4\Ejemplo1\obj\Debug\net8.0\ref\Ejemplo.dll

@@ -1,0 +1,14 @@
+C:\Users\LENOVO\source\repos\Ejemplos Cap8\EJemplo3\bin\Debug\net8.0\EJemplo3.exe
+C:\Users\LENOVO\source\repos\Ejemplos Cap8\EJemplo3\bin\Debug\net8.0\EJemplo3.deps.json
+C:\Users\LENOVO\source\repos\Ejemplos Cap8\EJemplo3\bin\Debug\net8.0\EJemplo3.runtimeconfig.json
+C:\Users\LENOVO\source\repos\Ejemplos Cap8\EJemplo3\bin\Debug\net8.0\EJemplo3.dll
+C:\Users\LENOVO\source\repos\Ejemplos Cap8\EJemplo3\bin\Debug\net8.0\EJemplo3.pdb
+C:\Users\LENOVO\source\repos\Ejemplos Cap8\EJemplo3\obj\Debug\net8.0\EJemplo3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\Ejemplos Cap8\EJemplo3\obj\Debug\net8.0\EJemplo3.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\Ejemplos Cap8\EJemplo3\obj\Debug\net8.0\EJemplo3.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\Ejemplos Cap8\EJemplo3\obj\Debug\net8.0\EJemplo3.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\Ejemplos Cap8\EJemplo3\obj\Debug\net8.0\EJemplo3.dll
+C:\Users\LENOVO\source\repos\Ejemplos Cap8\EJemplo3\obj\Debug\net8.0\refint\EJemplo3.dll
+C:\Users\LENOVO\source\repos\Ejemplos Cap8\EJemplo3\obj\Debug\net8.0\EJemplo3.pdb
+C:\Users\LENOVO\source\repos\Ejemplos Cap8\EJemplo3\obj\Debug\net8.0\EJemplo3.genruntimeconfig.cache
+C:\Users\LENOVO\source\repos\Ejemplos Cap8\EJemplo3\obj\Debug\net8.0\ref\EJemplo3.dll

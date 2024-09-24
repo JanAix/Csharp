@@ -1,0 +1,14 @@
+C:\Users\LENOVO\Documents\C# Basico .Net\Csharp\Modulo3-Clases\Ejemplo1\bin\Debug\net8.0\Ejemplo1.exe
+C:\Users\LENOVO\Documents\C# Basico .Net\Csharp\Modulo3-Clases\Ejemplo1\bin\Debug\net8.0\Ejemplo1.deps.json
+C:\Users\LENOVO\Documents\C# Basico .Net\Csharp\Modulo3-Clases\Ejemplo1\bin\Debug\net8.0\Ejemplo1.runtimeconfig.json
+C:\Users\LENOVO\Documents\C# Basico .Net\Csharp\Modulo3-Clases\Ejemplo1\bin\Debug\net8.0\Ejemplo1.dll
+C:\Users\LENOVO\Documents\C# Basico .Net\Csharp\Modulo3-Clases\Ejemplo1\bin\Debug\net8.0\Ejemplo1.pdb
+C:\Users\LENOVO\Documents\C# Basico .Net\Csharp\Modulo3-Clases\Ejemplo1\obj\Debug\net8.0\Ejemplo1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Documents\C# Basico .Net\Csharp\Modulo3-Clases\Ejemplo1\obj\Debug\net8.0\Ejemplo1.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Documents\C# Basico .Net\Csharp\Modulo3-Clases\Ejemplo1\obj\Debug\net8.0\Ejemplo1.AssemblyInfo.cs
+C:\Users\LENOVO\Documents\C# Basico .Net\Csharp\Modulo3-Clases\Ejemplo1\obj\Debug\net8.0\Ejemplo1.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\C# Basico .Net\Csharp\Modulo3-Clases\Ejemplo1\obj\Debug\net8.0\Ejemplo1.dll
+C:\Users\LENOVO\Documents\C# Basico .Net\Csharp\Modulo3-Clases\Ejemplo1\obj\Debug\net8.0\refint\Ejemplo1.dll
+C:\Users\LENOVO\Documents\C# Basico .Net\Csharp\Modulo3-Clases\Ejemplo1\obj\Debug\net8.0\Ejemplo1.pdb
+C:\Users\LENOVO\Documents\C# Basico .Net\Csharp\Modulo3-Clases\Ejemplo1\obj\Debug\net8.0\Ejemplo1.genruntimeconfig.cache
+C:\Users\LENOVO\Documents\C# Basico .Net\Csharp\Modulo3-Clases\Ejemplo1\obj\Debug\net8.0\ref\Ejemplo1.dll

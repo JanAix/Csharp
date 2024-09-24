@@ -1,0 +1,14 @@
+C:\Users\LENOVO\source\repos\CasoDeEstudio\PrimerCaso\obj\Debug\net8.0\PrimerCaso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\CasoDeEstudio\PrimerCaso\obj\Debug\net8.0\PrimerCaso.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\CasoDeEstudio\PrimerCaso\obj\Debug\net8.0\PrimerCaso.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\CasoDeEstudio\PrimerCaso\obj\Debug\net8.0\PrimerCaso.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\CasoDeEstudio\PrimerCaso\bin\Debug\net8.0\PrimerCaso.exe
+C:\Users\LENOVO\source\repos\CasoDeEstudio\PrimerCaso\bin\Debug\net8.0\PrimerCaso.deps.json
+C:\Users\LENOVO\source\repos\CasoDeEstudio\PrimerCaso\bin\Debug\net8.0\PrimerCaso.runtimeconfig.json
+C:\Users\LENOVO\source\repos\CasoDeEstudio\PrimerCaso\bin\Debug\net8.0\PrimerCaso.dll
+C:\Users\LENOVO\source\repos\CasoDeEstudio\PrimerCaso\bin\Debug\net8.0\PrimerCaso.pdb
+C:\Users\LENOVO\source\repos\CasoDeEstudio\PrimerCaso\obj\Debug\net8.0\PrimerCaso.dll
+C:\Users\LENOVO\source\repos\CasoDeEstudio\PrimerCaso\obj\Debug\net8.0\refint\PrimerCaso.dll
+C:\Users\LENOVO\source\repos\CasoDeEstudio\PrimerCaso\obj\Debug\net8.0\PrimerCaso.pdb
+C:\Users\LENOVO\source\repos\CasoDeEstudio\PrimerCaso\obj\Debug\net8.0\PrimerCaso.genruntimeconfig.cache
+C:\Users\LENOVO\source\repos\CasoDeEstudio\PrimerCaso\obj\Debug\net8.0\ref\PrimerCaso.dll

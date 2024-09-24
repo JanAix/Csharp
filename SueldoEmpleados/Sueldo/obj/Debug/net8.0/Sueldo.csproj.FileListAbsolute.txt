@@ -1,0 +1,14 @@
+C:\Users\LENOVO\Documents\C# Basico .Net\Csharp\SueldoEmpleados\Sueldo\bin\Debug\net8.0\Sueldo.exe
+C:\Users\LENOVO\Documents\C# Basico .Net\Csharp\SueldoEmpleados\Sueldo\bin\Debug\net8.0\Sueldo.deps.json
+C:\Users\LENOVO\Documents\C# Basico .Net\Csharp\SueldoEmpleados\Sueldo\bin\Debug\net8.0\Sueldo.runtimeconfig.json
+C:\Users\LENOVO\Documents\C# Basico .Net\Csharp\SueldoEmpleados\Sueldo\bin\Debug\net8.0\Sueldo.dll
+C:\Users\LENOVO\Documents\C# Basico .Net\Csharp\SueldoEmpleados\Sueldo\bin\Debug\net8.0\Sueldo.pdb
+C:\Users\LENOVO\Documents\C# Basico .Net\Csharp\SueldoEmpleados\Sueldo\obj\Debug\net8.0\Sueldo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Documents\C# Basico .Net\Csharp\SueldoEmpleados\Sueldo\obj\Debug\net8.0\Sueldo.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Documents\C# Basico .Net\Csharp\SueldoEmpleados\Sueldo\obj\Debug\net8.0\Sueldo.AssemblyInfo.cs
+C:\Users\LENOVO\Documents\C# Basico .Net\Csharp\SueldoEmpleados\Sueldo\obj\Debug\net8.0\Sueldo.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\C# Basico .Net\Csharp\SueldoEmpleados\Sueldo\obj\Debug\net8.0\Sueldo.dll
+C:\Users\LENOVO\Documents\C# Basico .Net\Csharp\SueldoEmpleados\Sueldo\obj\Debug\net8.0\refint\Sueldo.dll
+C:\Users\LENOVO\Documents\C# Basico .Net\Csharp\SueldoEmpleados\Sueldo\obj\Debug\net8.0\Sueldo.pdb
+C:\Users\LENOVO\Documents\C# Basico .Net\Csharp\SueldoEmpleados\Sueldo\obj\Debug\net8.0\Sueldo.genruntimeconfig.cache
+C:\Users\LENOVO\Documents\C# Basico .Net\Csharp\SueldoEmpleados\Sueldo\obj\Debug\net8.0\ref\Sueldo.dll

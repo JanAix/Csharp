@@ -1,0 +1,123 @@
+﻿@model IEnumerable<ShopWeb.Data.Dtos.CustomersAddDto>
+
+@{
+    ViewData["Title"] = "Clientes";
+}
+
+<h1>Lista Cientes</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            
+            <th>
+                @Html.DisplayNameFor(model => model.companyname)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.contactname)
+            </th>
+            <th id="Titulo">
+                @Html.DisplayNameFor(model => model.contacttitle )
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.address)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.email)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.city)
+            </th>
+            <th id="region">
+                @Html.DisplayNameFor(model => model.region)
+            </th>
+            <th id="codigo">
+                @Html.DisplayNameFor(model => model.postalcode)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.country)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.phone)
+            </th>
+            <th id="fax">
+                @Html.DisplayNameFor(model => model.fax)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.creation_date)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.creation_user)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+          
+            <td>
+                @Html.DisplayFor(modelItem => item.companyname)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.contactname)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.address)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.email)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.city)
+            </td>
+
+            <td>
+                @Html.DisplayFor(modelItem => item.country)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.phone)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.creation_date)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.creation_user)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id=item.custid }) |
+                @Html.ActionLink("Details", "Details", new { id=item.custid }) |
+                
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+
+<style>
+    #Titulo{
+
+        display: none
+    }
+
+    #region{
+
+        display: none
+    }
+
+    #codigo{
+
+        display: none
+    }
+
+    #fax{
+
+        display :none
+    }
+
+</style>
+
+

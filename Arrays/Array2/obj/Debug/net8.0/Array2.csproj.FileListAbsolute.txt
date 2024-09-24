@@ -1,0 +1,14 @@
+C:\Users\LENOVO\Documents\C# Basico .Net\Csharp\Arrays\Array2\bin\Debug\net8.0\Array2.exe
+C:\Users\LENOVO\Documents\C# Basico .Net\Csharp\Arrays\Array2\bin\Debug\net8.0\Array2.deps.json
+C:\Users\LENOVO\Documents\C# Basico .Net\Csharp\Arrays\Array2\bin\Debug\net8.0\Array2.runtimeconfig.json
+C:\Users\LENOVO\Documents\C# Basico .Net\Csharp\Arrays\Array2\bin\Debug\net8.0\Array2.dll
+C:\Users\LENOVO\Documents\C# Basico .Net\Csharp\Arrays\Array2\bin\Debug\net8.0\Array2.pdb
+C:\Users\LENOVO\Documents\C# Basico .Net\Csharp\Arrays\Array2\obj\Debug\net8.0\Array2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Documents\C# Basico .Net\Csharp\Arrays\Array2\obj\Debug\net8.0\Array2.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Documents\C# Basico .Net\Csharp\Arrays\Array2\obj\Debug\net8.0\Array2.AssemblyInfo.cs
+C:\Users\LENOVO\Documents\C# Basico .Net\Csharp\Arrays\Array2\obj\Debug\net8.0\Array2.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\C# Basico .Net\Csharp\Arrays\Array2\obj\Debug\net8.0\Array2.dll
+C:\Users\LENOVO\Documents\C# Basico .Net\Csharp\Arrays\Array2\obj\Debug\net8.0\refint\Array2.dll
+C:\Users\LENOVO\Documents\C# Basico .Net\Csharp\Arrays\Array2\obj\Debug\net8.0\Array2.pdb
+C:\Users\LENOVO\Documents\C# Basico .Net\Csharp\Arrays\Array2\obj\Debug\net8.0\Array2.genruntimeconfig.cache
+C:\Users\LENOVO\Documents\C# Basico .Net\Csharp\Arrays\Array2\obj\Debug\net8.0\ref\Array2.dll
